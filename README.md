@@ -1,4 +1,3 @@
-<div align="center">
 # GRUPO 3 - KLM
 # Introducción a Señales Biomédicas - 2026-I
   
