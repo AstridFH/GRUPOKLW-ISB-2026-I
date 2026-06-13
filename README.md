@@ -1,4 +1,4 @@
-![Logo de introducción](https://ciencias.cayetano.edu.pe/wp-content/uploads/sites/28/2023/07/DSC02429-1024x576.jpg)
+![Logo de introducción](https://ciencias.cayetano.edu.pe/wp-content/uploads/sites/28/2023/07/DSC02429-800x400.jpg)
 # GRUPO 3 - KLM  
 ![Curso ](https://img.shields.io/badge/Curso-ISB%202026--1-0366d6?style=flat-square&logoColor=white) ![Estado](https://img.shields.io/badge/Estado-En%20proceso-d4a017?style=flat-square)
 
