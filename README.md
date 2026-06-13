@@ -4,12 +4,11 @@
 Repositorio del grupo Kam Lu Wantan para el curso de Introducción a señales Biomédicas en el ciclo 2026-I.
 
 ## 📁 Estructura del repositorio
-<!-- Lo que esté dentro de las comillas se va a ver como si fuera código -->
 ```
 .
 ├── CITI program - certificados/    # Certificados CITI
-├── Laboratorios/                   # Prácticas y reportes
-├── Proyecto/                       # Código, data y entregables del proyecto
+├── Laboratorios/                   # Prácticas e informes
+├── Proyecto/                       # Entregables del proyecto, código y data
 └── README.md
 ```
 ---
