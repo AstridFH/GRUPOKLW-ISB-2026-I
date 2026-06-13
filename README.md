@@ -5,7 +5,6 @@ Repositorio del grupo Kam Lu Wantan para el curso de Introducción a señales Bi
 
 ## 📁 Estructura del repositorio
 ```
-.
 ├── CITI program - certificados/    # Certificados CITI
 ├── Laboratorios/                   # Prácticas e informes
 ├── Proyecto/                       # Entregables del proyecto, código y data
